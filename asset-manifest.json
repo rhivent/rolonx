@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rolonx/static/css/main.f857a3b4.chunk.css",
+    "main.js": "/rolonx/static/js/main.eefe5ef6.chunk.js",
+    "main.js.map": "/rolonx/static/js/main.eefe5ef6.chunk.js.map",
+    "runtime-main.js": "/rolonx/static/js/runtime-main.a1f9661c.js",
+    "runtime-main.js.map": "/rolonx/static/js/runtime-main.a1f9661c.js.map",
+    "static/js/2.7bf7d871.chunk.js": "/rolonx/static/js/2.7bf7d871.chunk.js",
+    "static/js/2.7bf7d871.chunk.js.map": "/rolonx/static/js/2.7bf7d871.chunk.js.map",
+    "index.html": "/rolonx/index.html",
+    "precache-manifest.9f23109b6a9810d032bf03d17a15c1e9.js": "/rolonx/precache-manifest.9f23109b6a9810d032bf03d17a15c1e9.js",
+    "service-worker.js": "/rolonx/service-worker.js",
+    "static/css/main.f857a3b4.chunk.css.map": "/rolonx/static/css/main.f857a3b4.chunk.css.map",
+    "static/js/2.7bf7d871.chunk.js.LICENSE": "/rolonx/static/js/2.7bf7d871.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f9661c.js",
+    "static/js/2.7bf7d871.chunk.js",
+    "static/css/main.f857a3b4.chunk.css",
+    "static/js/main.eefe5ef6.chunk.js"
+  ]
+}
